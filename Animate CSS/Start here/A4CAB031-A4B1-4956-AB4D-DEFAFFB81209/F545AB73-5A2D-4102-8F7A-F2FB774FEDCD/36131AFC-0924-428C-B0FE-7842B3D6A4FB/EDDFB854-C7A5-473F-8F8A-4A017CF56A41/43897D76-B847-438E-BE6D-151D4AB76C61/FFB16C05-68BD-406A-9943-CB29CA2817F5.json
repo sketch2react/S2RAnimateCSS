@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 5,
         "location": 0
       },
       {
@@ -57,10 +57,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 8
+        "location": 5
       }
     ],
-    "string": "Shake it🤘"
+    "string": "Shake🤘"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -86,7 +86,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{2, 16}, {390, 71}}",
+  "glyphBounds": "{{2, 16}, {313, 71}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
